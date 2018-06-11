@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "react-app-with-antd",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple reactjs tests with Antd",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
