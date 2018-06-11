@@ -12,6 +12,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
+      <h2>Our first button</h2>
       <Button type="primary">Send</Button>
     </div>
   );
